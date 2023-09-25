@@ -7,7 +7,7 @@ Data engineering project that aims to anaylise Uber traffic data. It consists of
 6- Create a dashboard to visualise results of analysis inside Looker studio tool <br/>
 
 Technologies: <br/>
-1- Google cloud plateform <br/>
+1- Google cloud plateform (compute engine, google storage, bigquery sql, IAM) <br/>
 2- Mage.io <br/>
 3- Looker studio <br/>
 5- Python <br/>
